@@ -5,4 +5,4 @@ function compareEquality(b, c) {
     return "Not Equal";
   }
   
-  compareEquality(10, "10");
+  compareEquality(15, "15");
