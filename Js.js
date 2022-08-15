@@ -2,7 +2,7 @@ function compareEquality(b, c) {
     if (b === c) { // Change this line
       return "Equal";
     }
-    return "Not Equal";
+    return "No Equal";
   }
   
-  compareEquality(20, "20");
+  compareEquality(36, "36");
