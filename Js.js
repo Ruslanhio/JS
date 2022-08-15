@@ -6,3 +6,5 @@ function testStrictNotEqual(val) {
   }
   
   testStrictNotEqual(10);
+
+  
