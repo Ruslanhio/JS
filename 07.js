@@ -1,4 +1,4 @@
-function testElseIf(val) {
+function ElseIf(val) {
     if (val > 10) {
       return "Greater than 10";
     }
@@ -10,7 +10,7 @@ function testElseIf(val) {
     return "Between 5 and 10";
   }
   }
-  testElseIf(7);
+  ElseIf(7);
 
 
   function testSize(num) {
